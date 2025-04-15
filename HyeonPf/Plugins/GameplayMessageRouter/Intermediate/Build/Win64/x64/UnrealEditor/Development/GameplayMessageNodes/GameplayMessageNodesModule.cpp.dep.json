@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gameplaymessagerouter\\source\\gameplaymessagenodes\\private\\gameplaymessagenodesmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplaymessagenodes\\definitions.gameplaymessagenodes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

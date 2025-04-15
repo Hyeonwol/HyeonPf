@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\source\\private\\datasource\\gamesettingdatasourcedynamic.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesettings\\definitions.gamesettings.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\source\\public\\datasource\\gamesettingdatasourcedynamic.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\source\\public\\datasource\\gamesettingdatasource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\propertypath\\public\\propertypathhelpers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\propertypath\\public\\propertytypecompatibility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\propertypath\\uht\\propertypathhelpers.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

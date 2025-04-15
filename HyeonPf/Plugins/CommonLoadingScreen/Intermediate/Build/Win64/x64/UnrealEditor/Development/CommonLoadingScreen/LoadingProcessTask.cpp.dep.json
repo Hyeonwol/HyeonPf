@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocesstask.generated.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingscreenmanager.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingscreenmanager.generated.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocesstask.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

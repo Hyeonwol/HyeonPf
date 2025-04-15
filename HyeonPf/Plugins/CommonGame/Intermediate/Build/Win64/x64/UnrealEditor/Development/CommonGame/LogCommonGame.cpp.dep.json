@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commongame\\source\\private\\logcommongame.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commongame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commongame\\definitions.commongame.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\commongame\\source\\private\\logcommongame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

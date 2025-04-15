@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\source\\private\\editcondition\\whenplayingasprimaryplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projecthp\\dungeoncrawler\\hyeonpf\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesettings\\definitions.gamesettings.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\source\\public\\editcondition\\whenplayingasprimaryplayer.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\source\\public\\gamesettingfilterstate.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\textfilterexpressionevaluator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\expressionparser.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\textfilterutils.h",
+            "e:\\projecthp\\dungeoncrawler\\hyeonpf\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingfilterstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
