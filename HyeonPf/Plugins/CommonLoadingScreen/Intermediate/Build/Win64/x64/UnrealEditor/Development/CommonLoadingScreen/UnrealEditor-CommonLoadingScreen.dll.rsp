@@ -37,12 +37,7 @@
 /FUNCTIONPADMIN:6
 /NATVIS:"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\RenderCore.natvis"
 "E:\ProjectHP\DungeonCrawler\HyeonPf\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\CommonLoadingScreenModule.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\CommonLoadingScreenSettings.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\LoadingScreenManager.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\LoadingProcessTask.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\CommonLoadingScreen.init.gen.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\LoadingProcessInterface.gen.cpp.obj"
+"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
 "E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"

@@ -7,12 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "E:\ProjectHP\DungeonCrawler\HyeonPf\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketCapture.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketCaptureSubsystem.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketLevel.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketLevelInstance.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketLevelSystem.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketWorldsModule.cpp.obj"
-"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\PocketWorlds.init.gen.cpp.obj"
+"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp.obj"
 "E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\Default.rc2.res"
 /OUT:"E:\ProjectHP\DungeonCrawler\HyeonPf\Plugins\PocketWorlds\Intermediate\Build\Win64\x64\UnrealEditor\Development\PocketWorlds\UnrealEditor-PocketWorlds.lib"
